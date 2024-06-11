@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# FMC Project Assignment
 
-## Getting Started
+## Introduction
 
-First, run the development server:
+This project is a simple login and signup page built using Next.js and styled with Tailwind CSS. It is responsive across multiple screen sizes and stores the entered username as a cookie. The project is hosted on Vercel.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Next.js**: Utilized for building the project.
+- **Tailwind CSS**: Used for styling the components.
+- **Responsive Design**: Ensures the site works well on various screen sizes.
+- **Username Storage**: Stores the entered username as a cookie.
+- **Page Navigation**: Includes navigation links between the login and signup pages.
+- **Hosted on Vercel**: The project is deployed and hosted on Vercel.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Deployment
 
-To learn more about Next.js, take a look at the following resources:
+The project is deployed on Vercel. You can view the live site at:
+(https://fmc-project-assignment.vercel.app/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Screenshots
 
-## Deploy on Vercel
+### Home Page
+![Home Page]![Screenshot from 2024-06-11 23-29-08](https://github.com/KunalJoya008/fmc-project-assignment/assets/163138918/861cb4fe-71f6-4568-876a-04ffb2a067d1)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Login Page!
+![Screenshot from 2024-06-11 23-30-11](https://github.com/KunalJoya008/fmc-project-assignment/assets/163138918/a0fcdb5f-1805-4195-99cf-def1510b5d75)
+
+
+### Signup Page
+
+![Screenshot from 2024-06-11 23-29-48](https://github.com/KunalJoya008/fmc-project-assignment/assets/163138918/941e544d-09f4-4f6d-8dc0-85b694de2104)
+
+
+##cookie storage
+
+![Screenshot from 2024-06-11 23-30-43](https://github.com/KunalJoya008/fmc-project-assignment/assets/163138918/4cbf6393-b765-4500-80b7-c65f63a7493d)
+
