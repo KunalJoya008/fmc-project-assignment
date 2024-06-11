@@ -8,6 +8,7 @@ This project is a simple login and signup page built using Next.js and styled wi
 
 - **Next.js**: Utilized for building the project.
 - **Tailwind CSS**: Used for styling the components.
+- Also added a animation of infinite slow movie blurred object in sinup and login page
 - **Responsive Design**: Ensures the site works well on various screen sizes.
 - **Username Storage**: Stores the entered username as a cookie.
 - **Page Navigation**: Includes navigation links between the login and signup pages.
